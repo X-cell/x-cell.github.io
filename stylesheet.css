@@ -1,0 +1,83 @@
+header {
+  font-size:2em;
+  position:fixed;
+  right:0em;
+  width:100%;
+  margin-top: -3em;
+  background-color:white;
+  overflow: auto;
+  z-index: 1;
+  padding-bottom:-2em;
+}
+
+header p{
+  margin-right:1em;
+  margin-left:1em;
+}
+
+#contact {
+  float:right;
+  margin-top:-2em;
+  padding-bottom:-2em;
+}
+
+#splash img {
+    position: absolute;
+    /*left: 20%;*/
+    width: 100% ;
+    top:10%;
+    display:block;
+    /*bottom: 8%;*/
+    /*transition: bottom 1s;*/
+}
+
+#splash:hover {
+ cursor:pointer;
+}
+
+
+
+body {
+  margin: 0;
+  padding-top: 3em;
+  overflow-y: hidden;
+  height:100%;
+}
+
+body p {
+  font-size: 1.5em;
+  font-weight: bold:
+}
+
+.wrapper {
+  margin: 0em 3em 3em 3em;
+  padding-top: 4em;
+  /*transition: margin-top 3s;*/
+  max-width: 90%;
+  font-size:1.5em;
+  /*max-width: 50em;*/
+  display: none;
+}
+
+
+.inputText {
+  background-color:purple;
+  padding-left: 30em;
+  /*width:10%;*/
+  /*height:40%;*/
+  margin: -1em 0 0 20em;
+}
+
+.inputComment{
+  background-color:white;
+  padding-left: 30em;
+  height:10em;
+  /*width:10%;*/
+  /*height:40%;*/
+  margin: -1em 4em 0 15em;
+}
+
+.btn {
+  width:8%;
+  margin: -2.3em 0 0 45em;
+}
