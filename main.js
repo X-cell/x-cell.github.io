@@ -6,10 +6,10 @@ function contactClick() {
   // var splashDiv = document.getElementById('splash');
   // var wrapper = document.getElementsByClassName('wrapper')[0];
   // var body = document.getElementsByTagName('body')[0];
-  var siteWrapperInner = document.getElementsByClassName('site-wrapper-inner')[0];
+  var coverHeading = document.getElementsByClassName('cover-heading')[0];
 
 
-  siteWrapperInner.style.display = "none";
+  coverHeading.style.display = "none";
 //   splashDiv.style.opacity=0;
 // splashDiv.style.animate=
   // // splashDiv.style.transform = "translate3d(33.3333%, 0px, 0px)";

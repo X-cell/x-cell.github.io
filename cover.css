@@ -48,6 +48,12 @@ body {
   display: table-cell;
   vertical-align: top;
 }
+
+*#mc_embed_signup{
+  padding-top:-10em;
+
+}
+
 .cover-container {
   margin-right: auto;
   margin-left: auto;
