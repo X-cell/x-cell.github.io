@@ -49,8 +49,9 @@ body {
   vertical-align: top;
 }
 
-*#mc_embed_signup{
+#mc_embed_signup{
   padding-top:-10em;
+  display:none;
 
 }
 
