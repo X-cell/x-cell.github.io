@@ -11,8 +11,10 @@ header {
 }
 
 header p{
-  margin-right:1em;
-  margin-left:1em;
+  padding-top:0.25em;
+  margin-right:0.5em;
+  margin-left:0.5em;
+  font: 20px / 40px sans-serif;
 }
 
 #contact {
@@ -55,10 +57,20 @@ body p {
   /*transition: margin-top 3s;*/
   max-width: 90%;
   font-size:1.5em;
+  height:25em;
   /*max-width: 50em;*/
   display: none;
 }
 
+#mc_embed_signup {
+  color:black;
+  background-color: rgb(136, 132, 119) ;
+  border: none;
+}
+
+h2 {
+  font-size: 1em;
+}
 
 .inputText {
   background-color:purple;
@@ -81,3 +93,10 @@ body p {
   width:8%;
   margin: -2.3em 0 0 45em;
 }
+
+
+	#mc_embed_signup{
+    background:#fff;
+    clear:left;
+    font:14px Helvetica,Arial,sans-serif;
+  }
