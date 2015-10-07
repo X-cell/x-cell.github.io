@@ -3705,6 +3705,13 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
     -webkit-box-shadow: none;
     box-shadow: none
   }
+  input{
+    width: 100px;
+}
+.label {
+  font-size:10px;
+}
+}
   .navbar-nav .open .dropdown-menu .dropdown-header, .navbar-nav .open .dropdown-menu>li>a {
     padding: 5px 15px 5px 25px
   }
