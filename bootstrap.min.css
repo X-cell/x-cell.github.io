@@ -94,6 +94,8 @@ button, input, optgroup, select, textarea {
   font: inherit;
   color: black;
 }
+
+
 button {
   overflow: visible
 }
@@ -2227,7 +2229,8 @@ label {
   display: inline-block;
   max-width: 100%;
   margin-bottom: 5px;
-  font-weight: 700
+  font-weight: 700;
+  margin-right:10px;
 }
 input[type=search] {
   -webkit-box-sizing: border-box;
