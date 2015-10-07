@@ -3706,10 +3706,10 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
     box-shadow: none
   }
   input{
-    width: 100px;
+    width: 120px;
 }
-.label {
-  font-size:10px;
+label {
+  font-size:12px;
 }
 }
   .navbar-nav .open .dropdown-menu .dropdown-header, .navbar-nav .open .dropdown-menu>li>a {
